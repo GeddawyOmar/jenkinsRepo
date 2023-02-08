@@ -1,1 +1,3 @@
 this is commited through 2 steps: add ->> commit
+
+this is commited through 1 step: commit -a
